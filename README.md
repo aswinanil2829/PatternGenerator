@@ -1,8 +1,8 @@
 # Planetary Motion
 
-![Alt](https://github.com/Soul-Snatcher/PatternGenerator/blob/master/made-with-c%2B%2B.svg)       
+![Alt](https://github.com/aswinanil2829/PatternGenerator/blob/master/made-with-c%2B%2B.svg)       
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Soul-Snatcher/PatternGenerator)
+![GitHub last commit](https://img.shields.io/github/last-commit/aswinanil2829/PatternGenerator)
 
 A small project to showcase an animated planetary motion through  visual studio
 
@@ -12,12 +12,12 @@ A small project to showcase an animated planetary motion through  visual studio
  
    Using HTTPS:
       ``` 
-     git clone https://github.com/Soul-Snatcher/PatternGenerator.git
+     git clone https://github.com/aswinanil2829/PatternGenerator.git
       ```
   
     Using SSH :
       ```
-      git clone git@github.com:Soul-Snatcher/PatternGenerator.git
+      git clone git@github.com:aswinanil2829/PatternGenerator.git
       ```      
 2.open the cloned folder in Visual Studio
 
@@ -25,7 +25,7 @@ A small project to showcase an animated planetary motion through  visual studio
 
 ## How it looks like
 
-![image](![image](https://user-images.githubusercontent.com/61682687/149182410-dc58f92c-7490-4124-89a3-db72b8036670.png))
+![image](https://github.com/aswinanil2829/PatternGenerator/blob/master/pic.jpg)
 
 ## YouTube Video
        
