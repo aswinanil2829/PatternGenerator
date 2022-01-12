@@ -25,8 +25,8 @@ A small project to showcase an animated planetary motion through  visual studio
 
 ## How it looks like
 
-![image](https://user-images.githubusercontent.com/28761307/148630852-b65f9cb3-e8ce-4bbd-88c5-8eb15ff4c9ab.png)
+![image](![image](https://user-images.githubusercontent.com/61682687/149182410-dc58f92c-7490-4124-89a3-db72b8036670.png))
 
 ## YouTube Video
-       https://www.youtube.com/watch?v=tJUHXG8A5lw
+       
 
